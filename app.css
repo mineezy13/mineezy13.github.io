@@ -28,7 +28,7 @@ h1 {
     src: url('./scriptina/SCRIPTIN.ttf');
     font-size: 5.4rem;
     color: #000000;
-    margin-bottom: 5rem;
+    margin-bottom: 1rem;
 }
 
 h1 > span {
