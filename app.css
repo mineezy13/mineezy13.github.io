@@ -24,6 +24,8 @@ h4 {
 }
 
 h1 {
+    font-family: 'Scriptina';
+    src: url('./scriptina/SCRIPTIN.ttf');
     font-size: 5.4rem;
     color: #000000;
     margin-bottom: 5rem;
@@ -97,10 +99,12 @@ h3 {
     text-decoration: none;
     color: #000000;
     background-color: white;
+    border-radius: 20px;
 }
   
 .btn:hover {
     cursor: pointer;
+    background-color: aqua;
     box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
     transform: translateY(-0.1rem);
     transition: transform 150ms;
